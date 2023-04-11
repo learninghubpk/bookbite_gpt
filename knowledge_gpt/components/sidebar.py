@@ -29,7 +29,7 @@ def sidebar():
         st.markdown("---")
         st.markdown("# About")
         st.markdown(
-            "📖BookBiteGPT allows you to ask questions about your "
+            "📖BookBite allows you to ask questions about your "
             "documents and get accurate answers with instant citations. "
         )
         faq()
